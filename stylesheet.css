@@ -1,0 +1,61 @@
+.title {
+  color: brack;
+}
+body {
+  text-align: center;
+}
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size:4em;
+  margin-bottom: 10px;
+}
+.MIDASHI  p {
+  font-family: 'Homemade Apple', cursive;
+  line-height:10px;
+  text-align: left;
+  color: white;
+
+}
+.MIDASHI {
+  position:relative;
+}
+.title {
+  position: absolute;
+  top:30%;
+  left:45%;
+}
+.MIDASHI img {
+  width: 80%;
+}
+.copy-container p {
+  font-size: 20px;
+  font-family: 'Kosugi Maru', sans-serif;
+  color: white;
+  border: 5px solid silver;
+  background-color: silver;
+  padding: 5px;
+}
+.contents img {
+  border: 3px solid silver;
+  margin: 5px;
+
+}
+.contents-item p {
+ font-family: 'Amatic SC', cursive;
+ font-size: 20px;
+ font-weight: bold;
+ color: white;
+}
+.contents {
+text-align: center;
+}
+.contents-item {
+  position: relative;
+  float: left;
+  left: 25%;
+}
+.contents-item p {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  }
