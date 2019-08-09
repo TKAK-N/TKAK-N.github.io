@@ -9,14 +9,14 @@ h1 {
   font-size:4em;
   margin-bottom: 10px;
 }
-.MIDASHI  p {
+.midashi p {
   font-family: 'Homemade Apple', cursive;
   line-height:10px;
   text-align: left;
   color: white;
 
 }
-.MIDASHI {
+.midashi {
   position:relative;
 }
 .title {
@@ -24,7 +24,7 @@ h1 {
   top:30%;
   left:45%;
 }
-.MIDASHI img {
+.midashi img {
   width: 80%;
 }
 .copy-container p {
